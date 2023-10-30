@@ -7,7 +7,7 @@
 <div>
  <img  align="right" src="https://media.tenor.com/EvNCyjP1IxQAAAAd/feliz-alegre.gif" width="250px"/>
  
- ✌ Meu nome é João Vitor, tenho 18 anos. Moro em São Paulo, mais conhecido como Sampa.
+ ✌ Meu nome é João Vitor, tenho 18 anos. Moro em São Paulo.
 
  👨‍🎓 Conheci o universo da programação em 2022 quando ingressei no SENAC Tatuapé cursando Tecnologia da Informação.
 
