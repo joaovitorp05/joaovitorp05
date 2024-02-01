@@ -5,7 +5,7 @@
 </br>
 
 <div>
- <img  align="right" src="https://media.tenor.com/EvNCyjP1IxQAAAAd/feliz-alegre.gif" width="250px"/>
+ <img  align="right" src="https://twitter.com/i/status/1654105022249021442" width="250px"/>
  
  ✌ Meu nome é João Vitor, tenho 18 anos. Moro em São Paulo.
 
