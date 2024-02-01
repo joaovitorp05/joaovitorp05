@@ -7,7 +7,7 @@
 <div>
  <img  align="right" src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-pessoas-digitando-6.gif" width="250px"/>
  
- ✌ Meu nome é João Vitor, tenho 18 anos. Moro em São Paulo.
+ ✌ Meu nome é João Vitor, tenho 19 anos. Moro em São Paulo.
 
  👨‍🎓 Conheci o universo da programação em 2022 quando ingressei no SENAC Tatuapé cursando Tecnologia da Informação.
 
