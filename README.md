@@ -5,7 +5,7 @@
 </br>
 
 <div>
- <img  align="right" src="https://tenor.com/pt-BR/view/teclado-anime-gif-10627704" width="250px"/>
+ <img  align="right" src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-pessoas-digitando-6.gif" width="250px"/>
  
  ✌ Meu nome é João Vitor, tenho 18 anos. Moro em São Paulo.
 
